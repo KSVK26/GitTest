@@ -4,4 +4,8 @@ udpated as requested
 
 updated 2.0
 
+<<<<<<< HEAD
 multiple changed on remote and local
+=======
+updated remote repo
+>>>>>>> b5c1c198eac29b2719e926b0942010c4b3e08966
